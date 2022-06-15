@@ -1,0 +1,8 @@
+prefix=/home/pinton/student733_ws/devel
+
+Name: lab5_ICP
+Description: Description of lab5_ICP
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

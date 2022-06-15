@@ -1,0 +1,8 @@
+prefix=/home/pinton/student733_ws/install
+
+Name: lab7_GPS
+Description: Description of lab7_GPS
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

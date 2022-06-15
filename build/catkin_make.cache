@@ -1,0 +1,2 @@
+lab2_2_map:lab2_map:lab3_1_pointcloud:lab3_2_pointcloud:lab4_uncommon_point:lab5_ICP:lab6_kalman:lab7_GPS:test_client:test_cricles:test_loader:test_odometry:test_odometry_two:test_parameters:test_point_cloud:test_service:test_transform_broadcaster:test_ultrasonic_counter:test_ultrasonic_data
+-G CodeBlocks - Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/pinton/student733_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pinton/student733_ws/install

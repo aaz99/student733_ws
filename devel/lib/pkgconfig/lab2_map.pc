@@ -1,0 +1,8 @@
+prefix=/home/pinton/student733_ws/devel
+
+Name: lab2_map
+Description: Description of lab2_map
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

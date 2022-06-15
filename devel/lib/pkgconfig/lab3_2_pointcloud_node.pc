@@ -1,0 +1,8 @@
+prefix=/home/pinton/student733_ws/devel
+
+Name: lab3_2_pointcloud_node
+Description: Description of lab3_2_pointcloud_node
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

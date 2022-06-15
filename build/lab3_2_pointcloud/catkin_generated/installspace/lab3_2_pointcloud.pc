@@ -1,0 +1,8 @@
+prefix=/home/pinton/student733_ws/install
+
+Name: lab3_2_pointcloud
+Description: Description of lab3_2_pointcloud
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
